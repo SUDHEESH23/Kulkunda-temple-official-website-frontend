@@ -1,6 +1,6 @@
-# Basavana Mooladevi Temple Website
+# Kulkunda Basaveshwara Temple Website
 
-Welcome to the repository for the Basavana Mooladevi Temple website. This project is designed to provide information about the temple, including its history, events, and community activities.
+Welcome to the repository for the Kulkunda Basaveshwara Temple website. This project is designed to provide information about the temple, including its history, events, and community activities.
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to the repository for the Basavana Mooladevi Temple website. This projec
 
 ## Overview
 
-The Basavana Mooladevi Temple website serves as a digital hub for devotees and visitors, offering easy access to information about the temple and its community. The site features a clean and intuitive interface with sections dedicated to the temple’s history, events, and a photo gallery.
+The Kulkunda Basaveshwara Temple website serves as a digital hub for devotees and visitors, offering easy access to information about the temple and its community. The site features a clean and intuitive interface with sections dedicated to the temple’s history, events, and a photo gallery.
 
 ### Technologies Used
 
